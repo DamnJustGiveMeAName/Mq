@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "faq.html",
+    "currentPage": "thai.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -628,7 +628,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -841,7 +841,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "5",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -936,10 +936,10 @@
               "active": true
             }
           },
-          "title6": "Host Anywhere",
+          "title6": "Test",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1&amp;item_name=Test&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
         },
         {
           "_styles": {
@@ -1173,7 +1173,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": 5,
+            "timeout": "5",
             "slides": [
               {
                 "active": false,
@@ -1190,7 +1190,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13.90&amp;item_name=Fried+Chicken+%26+bacon+Katsu&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/special-mushroom-burger-2000x1572.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1204,7 +1204,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11.90&amp;item_name=Magic+mushroom&amp;currency_code=AUD\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/great-aussie-bbq-burger-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1267,7 +1267,7 @@
           },
           "title1": "MAGIC MUSHROOM",
           "subtitle1": "",
-          "caption1": "Crumbed confit mushroom, cheese, onion, pickles, tomato, lettuce &amp; secret sauce",
+          "caption1": "Crumbed confit mushroom, cheese, onion, pickles, tomato, lettuce &amp; secret sauce<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=11.90&amp;item_name=Magic+mushroom&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media2": {
             "image": {
@@ -1287,7 +1287,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=13.90&amp;item_name=Fried+Chicken+&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/chicken-satay-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/great-aussie-bbq-burger-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1297,9 +1297,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "AUSSIE BEEF BURGER",
+          "title3": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">AUSSIE BEEF BURGER</span><br>",
           "subtitle3": "",
-          "caption3": "Grass fed beef, beetroot, cheese, onion, pickles, tomato, lettuce &amp; secret sauce",
+          "caption3": "Grass fed beef, beetroot, cheese, onion, pickles, tomato, lettuce &amp; secret sauce<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=12.50&amp;item_name=Aussie&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media4": {
             "image": {
@@ -1315,7 +1315,7 @@
           },
           "title4": "LARGE CHIPS",
           "subtitle4": "",
-          "caption4": "Salt, Chipotle chilli salt or Sichuan pepper salt",
+          "caption4": "Salt, Chipotle chilli salt or Sichuan pepper salt &nbsp;<br> <br><br><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=5.90&amp;item_name=Large+Chips&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media5": {
             "image": {
@@ -1331,7 +1331,7 @@
           },
           "title5": "THICK SHAKES",
           "subtitle5": "",
-          "caption5": "Vanilla, Valrhona chocolate, coffee, salted caramel &amp; strawberry",
+          "caption5": "Vanilla, Valrhona chocolate, coffee, salted caramel &amp; strawberry<br><br><br>",
           "button5": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=7.50&amp;item_name=Thick+Shakes&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>",
           "media6": {
             "image": {
@@ -1347,7 +1347,7 @@
           },
           "title6": "FEAST FOR 4",
           "subtitle6": "",
-          "caption6": "4 burgers, 2 large chips",
+          "caption6": "4 burgers, 2 large chips<br><br><br><br><br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=55&amp;item_name=Feast+for+4&amp;currency_code=AUD\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ADD TO CART</a>"
         },
         {
@@ -1442,7 +1442,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2445,6 +2445,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1n",
           "_params": {
             "labelsColor": "#232323",
@@ -2490,12 +2495,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">LOG IN</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">LOG IN</a>"
         },
         {
           "_styles": {
@@ -2589,7 +2589,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -2746,7 +2746,7 @@
             "showButtons": false
           },
           "title": "ABOUT US",
-          "text": "Macquarie students, busy working and studying, need fuel to sustain productivity. Choices on campus&nbsp;<span style=\"font-size: 1.5rem; line-height: 1.5;\">for food and drinks are limited, especially in the evenings when the food court kiosks are closed. We&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">believe students are looking for options that are quick and do not take too much time away from their&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">studies.</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>This website involves creating a platform on the web that allows students and Macquarie Park&nbsp;<span style=\"font-size: 1.5rem; line-height: 1.5;\">residents to order food for delivery and pick-up from restaurants around campus(i.e. Macquarie park,&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Macquarie University, Herring road apartment, Macquarie University Village).</span><br><br>",
+          "text": "Macquarie students, busy working and studying, need fuel to sustain productivity. Choices on campus&nbsp;<span style=\"font-size: 1.5rem; line-height: 1.5;\">for food and drinks are limited, especially in the evenings when the food court kiosks are closed. We&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">believe students are looking for options that are quick and do not take too much time away from their&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">studies.</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span>This website involves creating a platform on the web that allows students and Macquarie Park&nbsp;<span style=\"font-size: 1.5rem; line-height: 1.5;\">residents to order food for delivery &nbsp;from restaurants around campus(i.e. Macquarie park,&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Macquarie University, Herring road apartment, Macquarie University Village).</span><br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -2976,7 +2976,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
@@ -3098,136 +3098,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
-        },
-        {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
-          "_name": "features7",
-          "_anchor": "features7-20",
-          "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     },
@@ -3247,7 +3117,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3265,38 +3135,6 @@
           "title": "FAQs",
           "text": "How to Log In? There would be a textbox asking for username and another textbox with password field asking for password in top right of the website. If the user has already registered with the website, they can login by providing the correct username and password.<br><br>How to Register? An option to register would be present next to Login box. This link will open another page which will have a form to fill in the details of the user. Upon selecting the ‘Register’ button, the details are saved and user can now to log into the website.&nbsp;<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-24",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/UmK8flR-RMw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "VIDEO BACKGROUND",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
@@ -3390,7 +3228,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MQFeedr</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">RESTAURANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"pizza.html\">Pizza Place</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"thai.html\">Trendy Thai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"burger.html\">Burger n Chill</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"greek.html\">Greek Wonder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"steak.html\">Steak House</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQs</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"register.html\">REGISTER/ LOG IN</a></li>"
         },
         {
           "_name": "footer1",
