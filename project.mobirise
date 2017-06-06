@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "pizza.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -32,8 +32,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "MqFeedr ",
+        "meta_descr": "Home Page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -350,8 +350,8 @@
     },
     "pizza.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "MqFeedr | Pizza ",
+        "meta_descr": "Pizza Restaurant"
       },
       "components": [
         {
@@ -755,8 +755,8 @@
     },
     "thai.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "MqFeedr | Thai",
+        "meta_descr": "Thai Restaurant"
       },
       "components": [
         {
@@ -1160,8 +1160,8 @@
     },
     "burger.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "MqFeedr | Burger",
+        "meta_descr": "Burger Restaurant"
       },
       "components": [
         {
@@ -1569,8 +1569,8 @@
     },
     "greek.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "MqFeedr | Greek",
+        "meta_descr": "Greek Restaurant"
       },
       "components": [
         {
@@ -1974,8 +1974,8 @@
     },
     "steak.html": {
       "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "title": "MqFeedr | Steak",
+        "meta_descr": "Steak Restaurant"
       },
       "components": [
         {
@@ -2379,7 +2379,7 @@
     },
     "register.html": {
       "settings": {
-        "title": "Web Builder Title",
+        "title": "MqFeedr | Register/Log in",
         "meta_descr": "Web Builder Description"
       },
       "components": [
