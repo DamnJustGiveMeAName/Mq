@@ -835,6 +835,9 @@ h6,
 #contacts3-15 H4 {
   text-align: left;
 }
+#form1-1b .form-control-label {
+  color: #232323;
+}
 #menu-16 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -904,7 +907,4 @@ h6,
 }
 #contacts3-18 H4 {
   text-align: left;
-}
-#form1-1b .form-control-label {
-  color: #232323;
 }
